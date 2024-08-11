@@ -7,7 +7,7 @@ export const darkTheme = {
 };
 
 export const lightTheme = {
-  bg: "linear-gradient(90deg, rgba(9,103,121,1) 3%, rgba(205,110,231) 100%)",
+  bg: "linear-gradient(90deg, rgba(9,103,121,1) 3%, rgba(180,111,130,1) 100%)",
   bgLi: "white",
   text: "black",
   textSof: "#606060",
